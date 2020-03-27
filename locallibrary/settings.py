@@ -155,4 +155,4 @@ STATIC_URL = '/static/'
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
 
-ALLOWED_HOSTS = ['pacific-springs-01214.herokuapp.com']
+ALLOWED_HOSTS = ['pacific-springs-01214.herokuapp.com', '127.0.0.1']
